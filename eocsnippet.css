@@ -1,7 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
-    .eoc-cl {font-family:"open sans", helvetica, arial, sans-serif; font-size:18px;}
-    .eoc-cl p {padding:0; font-size:16px;}
+    .eoc-cl {font-family:"Open Sans", helvetica, arial, sans-serif; font-size:18px; background:#fff;}
+.eoc-cl.eoc-cl-fullwidth{background-image:url(https://experts-on-call.com/wp-content/uploads/2021/02/couple-on-the-beach.jpg);background-position:33% 64%; background-size:cover;padding:3em;width:100%;}
+    .eoc-cl p {padding:0; font-size:18px;}
     .eoc-cl .subtitle {font-weight:600;}
     .eoc-cl h2 {font-size: 2.25em; padding:0; margin:0;
     text-transform: uppercase;
